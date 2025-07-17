@@ -1,2 +1,6 @@
 # instructions-ai.sh
-because everyone project deserves tidy AI instructions. Any AI engine deserves clear instructions 
+Keep you project AI instructions tidy and up to date based on a list of reference instructions.
+
+*Current supported instructions*
+
+https://github.com/github/awesome-copilot
